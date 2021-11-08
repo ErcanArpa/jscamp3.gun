@@ -23,9 +23,9 @@ function addToCart2(productName, quantitity, unitPrice) {
         
 }
 
-addToCart2("Elma", 5, 10)
-addToCart2("Armut", 2, 20)
-addToCart2("Limon", 3, 15)
+addToCart2("Elma", 5, 10)       // başka sayfa
+addToCart2("Armut", 2, 20)      // bam başka sayfa
+addToCart2("Limon", 3, 15)      // bam bam başka sayfa 
 
 let product1 = {productName: "Elma", unitPrice: 10, quantitity:5}
 
